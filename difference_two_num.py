@@ -1,4 +1,3 @@
 num_1 = float(input("Input first number: "))
 num_2 = float(input("Input second number: "))
-if num_1 == num_2:
-    print(f"Both numbers are equal!")
+print(f"The difference of two numbers are", num_1 - num_2)
