@@ -10,4 +10,4 @@ if unique_num:
     print("Numbers with no duplication: ", end="")
     print(", ".join(unique_num))
 else:
-    print("Every number you entered had a duplicate")
+    print("Every number you entered had a duplicate!")
